@@ -37,13 +37,9 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
-<h1>![](https://github-readme-stats.vercel.app/api?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true)</h1><br/>
+![](https://github-readme-stats.vercel.app/api?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aryan-rn-black&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aryan-rn-black&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[](https://github-profile-trophy.vercel.app/?username=aryan-rn-black&theme=juicyfresh)
 ---
 [![](https://visitcount.itsvg.in/api?id=aryan-rn-black&icon=0&color=0)](https://visitcount.itsvg.in)
 
