@@ -17,7 +17,7 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aryan-rn-black&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-https://github-profile-trophy.vercel.app/?username=aryan-rn-black&theme=juicyfresh
+[](https://github-profile-trophy.vercel.app/?username=aryan-rn-black&theme=juicyfresh)
 ---
 [![](https://visitcount.itsvg.in/api?id=aryan-rn-black&icon=0&color=0)](https://visitcount.itsvg.in)
 
