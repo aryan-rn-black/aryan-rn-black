@@ -54,7 +54,7 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 
 ###
 
-<img align="right" height="200" src="coding.gif"  />
+<img align="right" height="200" src="coding_1.gif"  />
 
 ###
 
