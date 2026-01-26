@@ -43,4 +43,17 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 ---
 [![](https://visitcount.itsvg.in/api?id=aryan-rn-black&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
