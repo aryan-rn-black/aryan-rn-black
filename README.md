@@ -61,8 +61,8 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://nirzak-streak-stats.vercel.app/?user=aryan-rn-black&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
