@@ -53,11 +53,10 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 </picture>
 
 ###
-
+# 📊 GitHub Stats:
 <img align="right" height="200" src="coding_1.gif"  />
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://nirzak-streak-stats.vercel.app/?user=aryan-rn-black&theme=radical&hide_border=false" height="150" alt="languages graph"  />
