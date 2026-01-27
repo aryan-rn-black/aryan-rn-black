@@ -36,6 +36,15 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 # 📊 GitHub Stats:
 <img align="right" height="200" src="coding_1.gif"  />
 
@@ -49,13 +58,4 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 [![](https://visitcount.itsvg.in/api?id=aryan-rn-black&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
