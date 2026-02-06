@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Aryan, a developer focused on building practical and interactive web projects.<br>⚙️ I build: Web apps, games, and AI-powered tools<br>🔧 Skills: JavaScript, HTML, CSS, Node.js, Python, react,express<br>📚 Learning: React, Tailwind CSS, Git & GitHub  <br>🛠️ Projects: Chess games, chatbots, automation scripts  <br>🤝 Open to collaboration and internship opportunities<br>📈 Currently improving: Frontend frameworks & clean code practices  <br>🤝 Always open to learning, collaboration, feedback and internship opportunities<br>I'm Aryan, a developer who enjoys turning ideas into working projects.
+Hi 👋 I'm Aryan, a developer focused on building practical and interactive web projects.<br>⚙️ I build: Web apps, games, and AI-powered tools<br>🔧 Skills: JavaScript, HTML, CSS,API through Node.js, Python,express<br>📚 Learning: React, Tailwind CSS, Git & GitHub  <br>🛠️ Projects: Chess games, chatbots, automation scripts  <br>🤝 Open to collaboration and internship opportunities<br>📈 Currently improving: Frontend frameworks & clean code practices  <br>🤝 Always open to learning, collaboration, feedback and internship opportunities<br>I'm Aryan, a developer who enjoys turning ideas into working projects.
 
 
 ## 🌐 Socials:
