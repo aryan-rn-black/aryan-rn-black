@@ -43,7 +43,8 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg">
 </picture>
-
+![pacman contribution graph](https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![pacman contribution graph](https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
 ###
 # 📊 GitHub Stats:
 <img align="right" height="200" src="codingFun.gif"  />
