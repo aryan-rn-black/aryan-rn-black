@@ -39,8 +39,6 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 ###
 
 <picture>
-  ![pacman contribution graph](https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg#gh-light-mode-only)
-  ![pacman contribution graph](https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryan-rn-black/aryan-rn-black/output/pacman-contribution-graph.svg">
@@ -55,6 +53,10 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 ![](https://nirzak-streak-stats.vercel.app/?user=aryan-rn-black&theme=radical&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+![](https://github-readme-stats.shion.dev/api?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryan-rn-black&theme=radical&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aryan-rn-black&icon=0&color=0)](https://visitcount.itsvg.in)
