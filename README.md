@@ -48,15 +48,11 @@ Hi 👋 I'm Aryan, a developer focused on building practical and interactive web
 # 📊 GitHub Stats:
 <img align="right" height="200" src="codingFun.gif"  />
 
-![]( https://github-readme-stats.vercel.app/api?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true )<br/>
+![](https://github-readme-stats.shion.dev/api?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=aryan-rn-black&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryan-rn-black&theme=radical&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
-![](https://github-readme-stats.shion.dev/api?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryan-rn-black&theme=radical&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryan-rn-black&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aryan-rn-black&icon=0&color=0)](https://visitcount.itsvg.in)
